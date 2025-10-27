@@ -31,7 +31,7 @@ Features smooth animations, image spotlight with details, and navigation control
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/art-portfolio.git
+   git clone https://github.com/FarhanAhmedOnu/art-portfolio.git
    cd art-portfolio
     ````
 
