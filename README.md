@@ -43,7 +43,7 @@ Features smooth animations, image spotlight with details, and navigation control
 3. **Run locally**
 
    ```bash
-   npm run dev
+   npm start
 
 4. **Build for production**
 
