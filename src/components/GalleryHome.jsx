@@ -1,0 +1,79 @@
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import ImageModal from "./ImageModal";
+
+const artworks = [
+  {
+    title: "Cut off",
+    img: "https://cdnb.artstation.com/p/assets/images/images/093/053/531/medium/fraanz-x-img-1761454067599.jpg?1761458576",
+    desc: "description pore likhbo",
+  },
+  {
+    title: "Sunglasses",
+    img: "https://cdna.artstation.com/p/assets/images/images/093/053/532/medium/fraanz-x-img-1761454062139.jpg?1761458579",
+    desc: "description pore likhbo.",
+  },
+  {
+    title: "Smug in saree",
+    img: "https://cdnb.artstation.com/p/assets/images/images/093/053/535/medium/fraanz-x-img-1761454033891.jpg?1761458586",
+    desc: "description pore likhbo.",
+  },
+  {
+    title: "Hair in the wind",
+    img: "https://cdna.artstation.com/p/assets/images/images/093/053/552/medium/fraanz-img-20250916-140603.jpg?1761458615",
+    desc: "description pore likhbo.",
+  },
+];
+
+export default function GalleryHome() {
+  const [selected, setSelected] = useState(null);
+  const navigate = useNavigate();
+
+  const previewArtworks = artworks.slice(0, 4);
+
+  return (
+    <div className="py-16 px-8">
+      <h2 className="text-4xl font-bold mb-8 text-center">Gallery</h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        {previewArtworks.map((art, index) => (
+          <div
+            key={index}
+            className="bg-cardDark rounded-2xl overflow-hidden shadow-md hover:scale-105 transform transition cursor-pointer"
+            onClick={() => setSelected(index)}
+          >
+            <img
+              src={art.img}
+              alt={art.title}
+              className="w-full h-64 object-cover"
+            />
+            <div className="p-4 text-center">
+              <h3 className="font-semibold text-lg">{art.title}</h3>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* Show More Button */}
+      <div className="flex justify-center mt-10">
+        <button
+          onClick={() => navigate("/gallery")}
+          className="group relative overflow-hidden bg-gradient-to-r from-gray-700 to-gray-800 text-gray-100 px-8 py-3 rounded-xl shadow-md hover:shadow-xl transition-all duration-300 ease-out"
+        >
+          <span className="relative z-10 group-hover:text-white font-semibold tracking-wide">
+            Show More →
+          </span>
+          <span className="absolute inset-0 bg-gradient-to-r from-purple-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
+        </button>
+      </div>
+
+      {/* Image Modal */}
+      {selected !== null && (
+        <ImageModal
+          artworks={previewArtworks}
+          selected={selected}
+          setSelected={setSelected}
+        />
+      )}
+    </div>
+  );
+}
