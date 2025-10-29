@@ -3,6 +3,8 @@
 A sleek, dark-themed **React + Tailwind CSS** art portfolio inspired by [ArtStation](https://www.artstation.com/).  
 Features smooth animations, image spotlight with details, and navigation controls.
 
+The website can be found [here](https://FarhanAhmedOnu.github.io/art-portfolio)
+
 ---
 
 ## Features
