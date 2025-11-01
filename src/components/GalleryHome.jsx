@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import ImageModal from "./ImageModal";
+import Button from "./ui/Button";
 
 const artworks = [
   {
@@ -55,15 +56,13 @@ export default function GalleryHome() {
 
       {/* Show More Button */}
       <div className="flex justify-center mt-10">
-        <button
+        <Button
           onClick={() => navigate("/gallery")}
-          className="group relative overflow-hidden bg-gradient-to-r from-gray-700 to-gray-800 text-gray-100 px-8 py-3 rounded-xl shadow-md hover:shadow-xl transition-all duration-300 ease-out"
+          variant="primary"
+          size="medium"
         >
-          <span className="relative z-10 group-hover:text-white font-semibold tracking-wide">
-            Show More →
-          </span>
-          <span className="absolute inset-0 bg-gradient-to-r from-purple-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
-        </button>
+          Show More →
+        </Button>
       </div>
 
       {/* Image Modal */}

@@ -6,12 +6,13 @@ import About from "./components/About";
 import Footer from "./components/Footer";
 import SlidingBanner from "./components/SlidingBanner";
 import FullGallery from "./components/FullGallery";
+import ScrollToSection from "./components/ScrollToSection";
 
 export default function App() {
   return (
     <div className="min-h-screen flex flex-col bg-bgDark text-gray-200">
       <Navbar />
-
+      <ScrollToSection />
       <main className="flex-1">
         <Routes>
           {/* Home Page */}

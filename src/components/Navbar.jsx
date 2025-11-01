@@ -8,8 +8,8 @@ export default function Navbar() {
       </Link>
       <div className="space-x-6">
         <Link to="/" className="hover:text-pink-400 transition">Home</Link>
-        <Link to="/gallery" className="hover:text-pink-400 transition">Gallery</Link>
-        <Link to="#about" className="hover:text-pink-400 transition">About</Link>
+        <Link to="/#gallery" className="hover:text-pink-400 transition">Gallery</Link>
+        <Link to="/#about" className="hover:text-pink-400 transition">About</Link>
       </div>
     </nav>
   );
