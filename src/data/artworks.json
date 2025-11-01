@@ -5,8 +5,8 @@
       "title": "Cut off",
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/053/531/medium/fraanz-x-img-1761454067599.jpg?1761458576",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/053/531/small/fraanz-x-img-1761454067599.jpg?1761458576",
-      "desc": "description pore likhbo",
-      "category": "portrait",
+      "desc": "A detailed pencil sketch portrait focusing on facial features and expression.",
+      "categories": ["portrait", "pencil", "sketch"],
       "year": 2024
     },
     {
@@ -14,8 +14,8 @@
       "title": "Sunglasses",
       "img": "https://cdna.artstation.com/p/assets/images/images/093/053/532/medium/fraanz-x-img-1761454062139.jpg?1761458579",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/053/532/small/fraanz-x-img-1761454062139.jpg?1761458579",
-      "desc": "description pore likhbo.",
-      "category": "portrait",
+      "desc": "Character portrait with stylish sunglasses and urban vibe.",
+      "categories": ["portrait", "pencil", "sketch"],
       "year": 2024
     },
     {
@@ -23,8 +23,8 @@
       "title": "Smug in saree",
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/053/535/medium/fraanz-x-img-1761454033891.jpg?1761458586",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/053/535/small/fraanz-x-img-1761454033891.jpg?1761458586",
-      "desc": "description pore likhbo.",
-      "category": "portrait",
+      "desc": "Traditional attire portrait with expressive facial expression.",
+      "categories": ["portrait", "pencil", "sketch"],
       "year": 2024
     },
     {
@@ -32,26 +32,27 @@
       "title": "Hair in the wind",
       "img": "https://cdna.artstation.com/p/assets/images/images/093/053/552/medium/fraanz-img-20250916-140603.jpg?1761458615",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/053/552/small/fraanz-img-20250916-140603.jpg?1761458615",
-      "desc": "description pore likhbo.",
-      "category": "portrait",
+      "desc": "Dynamic portrait capturing movement and flow of hair.",
+      "categories": ["portrait", "pencil", "sketch"],
       "year": 2024
     },
     {
       "id": 5,
-      "title": "Neon Dream",
-      "img": "https://cdna.artstation.com/p/assets/images/images/092/992/505/medium/fraanz-x-neon-dream.jpg?1761234567",
-      "thumbnail": "https://cdna.artstation.com/p/assets/images/images/092/992/505/small/fraanz-x-neon-dream.jpg?1761234567",
-      "desc": "description pore likhbo.",
-      "category": "portrait",
+      "title": "Just a little irritated",
+      "img": "https://cdnb.artstation.com/p/assets/images/images/082/304/407/medium/farhan-onu-1.jpg?1732631635",
+      "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/082/304/407/small/farhan-onu-1.jpg?1732631635",
+      "desc": "",
+      "categories": ["portrait", "cyberpunk", "neon", "digital", "concept"],
       "year": 2024
     },
     {
       "id": 6,
       "title": "Desert Dancer",
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/253/371/medium/fraanz-dessert-dancer.jpg?1762018103",
-      "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/253/371/medium/fraanz-dessert-dancer.jpg?1762018103",
-      "desc": "description pore likhbo.",
-      "category": "portrait"
+      "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/253/371/small/fraanz-dessert-dancer.jpg?1762018103",
+      "desc": "Fantasy character in desert environment with dynamic pose.",
+      "categories": ["portrait", "pencil", "sketch"],
+      "year": 2024
     }
   ]
 }
