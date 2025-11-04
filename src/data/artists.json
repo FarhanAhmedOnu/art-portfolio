@@ -1,0 +1,68 @@
+{
+    "artists": [
+        {
+            "id": 1,
+            "name": "WLOP",
+            "image": "https://cdna.artstation.com/p/assets/images/images/021/083/124/medium/wl-op-3s.jpg?1570338646",
+            "specialty": "Digital Painting",
+            "article": {
+                "title": "WLOP's Ethereal Digital Mastery",
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "WLOP's ability to create ethereal, dreamlike atmospheres while maintaining incredible detail has been a major inspiration. Their use of light and texture creates paintings that feel both realistic and magical."
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://cdna.artstation.com/p/assets/images/images/021/083/124/medium/wl-op-3s.jpg?1570338646",
+                        "caption": "WLOP's signature ethereal style"
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "What I admire most is how WLOP combines traditional painting techniques with digital tools, creating works that feel timeless yet contemporary."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Quinni Art",
+            "image": "https://pbs.twimg.com/media/DG-fD30V0AA4mUM?format=jpg&name=medium",
+            "specialty": "Vibrant Digital Portraiture",
+            "article": {
+                "title": "The Ethereal and Electric Hues of Quinni Art",
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "Quinni Art's signature style—marked by **vibrant, high-saturation color palettes** and a **soft, ethereal glow**—has been a major source of inspiration for my use of light and color in digital portraits. Her ability to make every piece feel like a dreamy, neon-drenched moment is truly captivating."
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://pbs.twimg.com/media/DG-fD35VYAE6yYr?format=jpg&name=large",
+                        "caption": "A colorful, glowing digital portrait"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Kuvshinov Ilya",
+            "image": "https://cdna.artstation.com/p/assets/images/images/090/302/384/20250726001919/smaller_square/ilya-kuvshinov-img-8123.jpg?1753507159",
+            "specialty": "Illustration & Character Design",
+            "article": {
+                "title": "Kuvshinov's Evocative and Cinematic Portraits",
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "Ilya Kuvshinov's masterful blend of Eastern and Western aesthetics, combined with his cinematic lighting and deeply expressive character work, has been a significant inspiration for my own illustrations and approach to visual storytelling."
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://cdnb.artstation.com/p/assets/images/images/006/379/703/medium/ilya-kuvshinov-miura.jpg?1498143047",
+                        "caption": "A signature character portrait by Kuvshinov Ilya"
+                    }
+                ]
+            }
+        }
+    ]
+}

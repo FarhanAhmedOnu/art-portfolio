@@ -1,0 +1,80 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "The Witcher 3: Wild Hunt",
+      "image": "https://cdna.artstation.com/p/assets/images/images/004/497/558/20170110182355/smaller_square/michael-chang-witcher-3-final2.jpg?1484094236",
+      "developer": "CD Projekt Red",
+      "year": 2015,
+      "article": {
+        "title": "Why The Witcher 3 Inspires My Art",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "The Witcher 3's atmospheric world-building and character designs have been a huge influence on my artistic journey. The way CD Projekt Red creates living, breathing environments is something I strive to capture in my own work."
+          },
+          {
+            "type": "image",
+            "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ss_d1b73b18cbcd5e9e412c7a1dead3c5cd7303d2ad.1920x1080.jpg?t=1761131270",
+            "caption": "The rich fantasy aesthetic of The Witcher 3"
+          },
+          {
+            "type": "paragraph",
+            "text": "Particularly inspiring is the game's use of color palettes to convey different moods - from the vibrant colors of Toussaint to the grim, desaturated tones of Velen."
+          },
+          {
+            "type": "image",
+            "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.600x338.jpg?t=1761131270",
+            "caption": "Environmental storytelling through art"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Cyberpunk 2077",
+      "image": "https://cdnb.artstation.com/p/assets/images/images/033/036/307/medium/artur-tarnowski-1-5.jpg?1608204349",
+      "developer": "CD Projekt Red",
+      "year": 2020,
+      "article": {
+        "title": "Cyberpunk's Visual Influence",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Cyberpunk 2077 is one of my favorite games of all time. Though it had a very rough launch due to its release in a buggy state, over time it became a tech showcase for showing off all the newest graphics technology. Under the buggy mess, Cyberpunk had solid FPS and RPG gameplay. The game had really aesthetically pleasing character models. Among them, Judy, Panam, Johnny, etc. won the hearts of the players. Now to mention the elephant in the room: Night City. NC is truly one of the most beautiful virtual places I have seen. From neon-lit roads to the brightly illuminated skyline at night, everything looks breathtaking. After playing the game, it felt as if the city was the main character."
+          },
+          {
+            "type": "image",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/093/053/533/medium/fraanz-x-img-1761454038903.jpg?1761458582",
+            "caption": "My interpetation of the character Panam"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/287700/ss_9c92ce8b9809a3f0b5b2316b7146684eabab07d3.600x338.jpg?t=1727849445",
+      "developer": "Kojima Productions",
+      "year": 2015,
+      "article": {
+        "title": "Ambitious Open-World Stealth in Metal Gear Solid V",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Metal Gear Solid V: The Phantom Pain marks a major leap for the franchise by moving into full open-world environments, while still maintaining the stealth and tactical gameplay the series is known for."
+          },
+          {
+            "type": "image",
+            "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/287700/ss_9c92ce8b9809a3f0b5b2316b7146684eabab07d3.600x338.jpg?t=1727849445",
+            "caption": "Cover art of Metal Gear Solid V: The Phantom Pain"
+          },
+          {
+            "type": "paragraph",
+            "text": "Released on September 1 2015, the game follows Punished ‘Venom’ Snake through a detailed sandbox world, blending narrative, base-building, and emergent mission structure."
+          }
+        ]
+      }
+    }
+  ]
+}
