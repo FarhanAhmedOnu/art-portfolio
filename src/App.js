@@ -7,6 +7,9 @@ import Footer from "./components/Footer";
 import SlidingBanner from "./components/SlidingBanner";
 import FullGallery from "./components/FullGallery";
 import ScrollToSection from "./components/ScrollToSection";
+import Games from "./pages/Games";
+import Artists from "./pages/Artists";
+import Article from "./pages/Article";
 
 export default function App() {
   return (
@@ -46,6 +49,10 @@ export default function App() {
               </>
             }
           />
+          <Route path="/games" element={<Games />} />
+          <Route path="/artists" element={<Artists />} />
+          <Route path="/article" element={<Article />} />
+
         </Routes>
       </main>
 
