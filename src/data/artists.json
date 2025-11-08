@@ -63,6 +63,44 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 4,
+            "name": "Guweiz",
+            "image": "https://cdna.artstation.com/p/assets/images/images/055/234/972/large/z-w-gu-bg2-8d.jpg?1666451085",
+            "specialty": "Digital Illustration & Atmospheric Concept Art",
+            "article": {
+                "title": "Guweiz’s Ethereal Worlds and Story-Driven Characters",
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "text": "Guweiz (Gu Zheng Wei) is a Singapore-based digital artist celebrated for moody, cinematic illustrations that blend anime influences with urban and fantasy elements. His work often features lone characters bathed in dramatic lighting and textured atmospheres, creating emotional, narrative-rich images."
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://cdnb.artstation.com/p/assets/images/images/055/235/217/medium/z-w-gu-coverpromo2.jpg?1666451733",
+                        "caption": "Cover of 'The World of Guweiz: The Art of Gu Zheng Wei' — the artist's official artbook and a good single-source overview of his work."
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Many of Guweiz’s pieces explore themes of solitude, resilience, and fragile beauty. He uses rain, fog, dusk/dawn lighting and subtle color palettes to add emotional weight, and his compositions frequently suggest larger unseen stories just outside the frame."
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://cdnb.artstation.com/p/assets/images/images/025/734/879/medium/z-w-gu-trainstop.jpg?1586776592",
+                        "caption": "Train Stop"
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "To see his full portfolio, process posts, and project breakdowns (including many of the individual piece titles and series names), Guweiz’s ArtStation and publisher pages are the most reliable references."
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://cdnb.artstation.com/p/assets/images/images/055/234/941/medium/z-w-gu-bg2-8a.jpg?1666451174",
+                        "caption": "Tower"
+                    }
+                ]
+            }
         }
     ]
 }
