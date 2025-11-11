@@ -34,7 +34,7 @@ export default function FullGallery() {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">All Artworks</h1>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            Explore my complete collection of digital and traditional artwork
+            Explore my complete collection of artwork
           </p>
         </div>
 
@@ -47,7 +47,7 @@ export default function FullGallery() {
               placeholder="Search artworks by title, description, or category..."
             />
           </div>
-          
+
           {/* View Toggle Button */}
           <button
             onClick={toggleViewMode}
@@ -101,7 +101,7 @@ export default function FullGallery() {
                       <span className="text-white font-semibold text-lg">View Details</span>
                     </div>
                   </div>
-                  
+
                   <div className="p-6">
                     <h3 className="font-bold text-xl mb-2">{art.title}</h3>
                     {art.year && (
@@ -111,7 +111,7 @@ export default function FullGallery() {
                     {art.categories && art.categories.length > 0 ? (
                       <div className="flex flex-wrap gap-2">
                         {art.categories.map((category, catIndex) => (
-                          <span 
+                          <span
                             key={catIndex}
                             className="inline-block bg-gray-700 text-gray-300 text-xs px-3 py-1 rounded-full"
                           >
@@ -148,13 +148,13 @@ export default function FullGallery() {
                         <span className="text-gray-400">{art.year}</span>
                       )}
                     </div>
-                    
+
                     {/* Categories */}
                     {(art.categories || art.category) && (
                       <div className="flex flex-wrap gap-2">
                         {art.categories ? (
                           art.categories.map((category, catIndex) => (
-                            <span 
+                            <span
                               key={catIndex}
                               className="inline-block bg-gray-700 text-gray-300 text-xs px-3 py-1 rounded-full"
                             >
@@ -172,12 +172,12 @@ export default function FullGallery() {
 
                   {/* Image with 3:4 aspect ratio */}
                   <div className="relative">
-                    <div className="aspect-[3/4] overflow-hidden">
+                    <div className="overflow-hidden">
                       <LazyImage
                         src={art.img}
                         thumbnail={art.thumbnail}
                         alt={art.title}
-                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                        className="w-full h-auto object-cover group-hover:scale-105 transition-transform duration-300"
                       />
                     </div>
                   </div>
