@@ -3,3 +3,4 @@
 -add crop face for grid view
 -create CRUD dashboard
 -create ui for article creation
+-Zoom function in gallery
