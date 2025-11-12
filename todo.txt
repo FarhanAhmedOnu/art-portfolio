@@ -1,4 +1,4 @@
--swap to go to next/previous image
+-swap to go to next/previous image✅
 -create data input ui
 -add crop face for grid view
 -create CRUD dashboard

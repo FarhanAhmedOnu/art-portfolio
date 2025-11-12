@@ -23,7 +23,22 @@ export default function ImageModal({ artworks, selected, setSelected }) {
           exit={{ scale: 0.8, opacity: 0 }}
           transition={{ type: "spring", stiffness: 100, damping: 15 }}
         >
-          <img src={art.img} alt={art.title} className="w-full max-h-[75vh] object-contain" />
+          <motion.img
+            src={art.img}
+            alt={art.title}
+            className="w-full max-h-[75vh] object-contain select-none cursor-grab"
+            drag="x"
+            dragConstraints={{ left: 0, right: 0 }}
+            dragElastic={0.2}
+            onDragEnd={(event, info) => {
+              const swipeThreshold = 50;
+              if (info.offset.x > swipeThreshold) {
+                prev();
+              } else if (info.offset.x < -swipeThreshold) {
+                next();
+              }
+            }}
+          />
 
           <div className="absolute top-4 right-4">
             <button onClick={() => setSelected(null)} className="text-gray-300 hover:text-pink-500">
