@@ -10,6 +10,7 @@ import ScrollToSection from "./components/ScrollToSection";
 import Games from "./pages/Games";
 import Artists from "./pages/Artists";
 import Article from "./pages/Article";
+import ArtworkManager from "./components/admin/ArtworkManager";
 
 export default function App() {
   return (
@@ -52,6 +53,7 @@ export default function App() {
           <Route path="/games" element={<Games />} />
           <Route path="/artists" element={<Artists />} />
           <Route path="/article" element={<Article />} />
+          <Route path="/admin/artworks" element={<ArtworkManager />} />
 
         </Routes>
       </main>

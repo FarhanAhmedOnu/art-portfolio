@@ -5,8 +5,8 @@ export default function Navbar() {
   return (
     <nav className="flex justify-between items-center px-4 sm:px-8 py-4 bg-cardDark shadow-lg sticky top-0 z-50">
       {/* Logo - Shorter on mobile */}
-      <Link 
-        to="/" 
+      <Link
+        to="/"
         className="text-xl sm:text-2xl font-bold text-pink-500 hover:text-pink-400 transition"
       >
         <span className="hidden sm:inline">Onu's Sketch gallery</span>
@@ -31,22 +31,22 @@ export default function Navbar() {
 
       {/* Mobile Navigation Icons */}
       <div className="flex md:hidden space-x-4">
-        <Link 
-          to="/" 
+        <Link
+          to="/"
           className="hover:text-pink-400 transition p-2"
           title="Home"
         >
           <Home size={20} />
         </Link>
-        <Link 
-          to="/#gallery" 
+        <Link
+          to="/#gallery"
           className="hover:text-pink-400 transition p-2"
           title="Gallery"
         >
           <Images size={20} />
         </Link>
-        <Link 
-          to="/#about" 
+        <Link
+          to="/#about"
           className="hover:text-pink-400 transition p-2"
           title="About"
         >
