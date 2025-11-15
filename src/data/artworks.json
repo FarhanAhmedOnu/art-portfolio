@@ -6,7 +6,11 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/053/531/medium/fraanz-x-img-1761454067599.jpg?1761458576",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/053/531/small/fraanz-x-img-1761454067599.jpg?1761458576",
       "desc": "A detailed pencil sketch portrait focusing on facial features and expression.",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -15,7 +19,11 @@
       "img": "https://cdna.artstation.com/p/assets/images/images/093/053/532/medium/fraanz-x-img-1761454062139.jpg?1761458579",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/053/532/small/fraanz-x-img-1761454062139.jpg?1761458579",
       "desc": "Character portrait with stylish sunglasses and urban vibe.",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -24,7 +32,11 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/053/535/medium/fraanz-x-img-1761454033891.jpg?1761458586",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/053/535/small/fraanz-x-img-1761454033891.jpg?1761458586",
       "desc": "Traditional attire portrait with expressive facial expression.",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -33,7 +45,11 @@
       "img": "https://cdna.artstation.com/p/assets/images/images/093/053/552/medium/fraanz-img-20250916-140603.jpg?1761458615",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/053/552/small/fraanz-img-20250916-140603.jpg?1761458615",
       "desc": "Dynamic portrait capturing movement and flow of hair.",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -42,7 +58,13 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/082/304/407/medium/farhan-onu-1.jpg?1732631635",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/082/304/407/small/farhan-onu-1.jpg?1732631635",
       "desc": "",
-      "categories": ["portrait", "cyberpunk", "neon", "digital", "concept"],
+      "categories": [
+        "portrait",
+        "cyberpunk",
+        "neon",
+        "digital",
+        "concept"
+      ],
       "year": 2024
     },
     {
@@ -51,7 +73,11 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/253/371/medium/fraanz-dessert-dancer.jpg?1762018103",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/253/371/small/fraanz-dessert-dancer.jpg?1762018103",
       "desc": "Fantasy character in desert environment with dynamic pose.",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -60,7 +86,11 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/053/533/small/fraanz-x-img-1761454038903.jpg?1761458582",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/053/533/small/fraanz-x-img-1761454038903.jpg?1761458582",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -69,7 +99,11 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/053/537/small/fraanz-x-img-1761454027748.jpg?1761458589",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/053/537/small/fraanz-x-img-1761454027748.jpg?1761458589",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -78,7 +112,11 @@
       "img": "https://cdna.artstation.com/p/assets/images/images/093/053/540/small/fraanz-x-img-1761454021821.jpg?1761458592",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/053/540/small/fraanz-x-img-1761454021821.jpg?1761458592",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -87,7 +125,11 @@
       "img": "https://cdna.artstation.com/p/assets/images/images/093/053/542/small/fraanz-x-img-1761454014601.jpg?1761458596",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/053/542/small/fraanz-x-img-1761454014601.jpg?1761458596",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -96,7 +138,11 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/053/543/small/fraanz-x-img-1761454006227.jpg?1761458599",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/053/543/small/fraanz-x-img-1761454006227.jpg?1761458599",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -105,7 +151,11 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/053/549/small/fraanz-img-20250908-104705.jpg?1761458607",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/053/549/small/fraanz-img-20250908-104705.jpg?1761458607",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -114,7 +164,11 @@
       "img": "https://cdna.artstation.com/p/assets/images/images/093/577/798/large/fraanz-x-img-1762017001646.jpg?1762933817",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/577/798/large/fraanz-x-img-1762017001646.jpg?1762933817",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -123,7 +177,11 @@
       "img": "https://cdna.artstation.com/p/assets/images/images/093/577/802/small/fraanz-x-img-1762017007231.jpg?1762933822",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/577/802/small/fraanz-x-img-1762017007231.jpg?1762933822",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -132,7 +190,11 @@
       "img": "https://cdnb.artstation.com/p/assets/images/images/093/577/803/small/fraanz-x-img-1762017012211.jpg?1762933824",
       "thumbnail": "https://cdnb.artstation.com/p/assets/images/images/093/577/803/small/fraanz-x-img-1762017012211.jpg?1762933824",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
     },
     {
@@ -141,8 +203,24 @@
       "img": "https://cdna.artstation.com/p/assets/images/images/093/577/812/small/fraanz-x-img-1762017019929.jpg?1762933833",
       "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/577/812/small/fraanz-x-img-1762017019929.jpg?1762933833",
       "desc": "",
-      "categories": ["portrait", "pencil", "sketch"],
+      "categories": [
+        "portrait",
+        "pencil",
+        "sketch"
+      ],
       "year": 2024
+    },
+    {
+      "id": 17,
+      "title": "eyes",
+      "img": "https://cdna.artstation.com/p/assets/images/images/093/577/788/large/fraanz-x-img-1762016977610.jpg?1762933797",
+      "thumbnail": "https://cdna.artstation.com/p/assets/images/images/093/577/788/large/fraanz-x-img-1762016977610.jpg?1762933797",
+      "desc": "",
+      "category": "",
+      "categories": [
+        "portrait"
+      ],
+      "year": "2021"
     }
   ]
 }
